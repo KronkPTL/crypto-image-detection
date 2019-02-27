@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1547029623 source:d:\probleme info\facultate\pp\proiect\proiect\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
