@@ -1,6 +1,6 @@
 # unip
 
-University Projects
+University Project
 
 Project languages: Romanian, English
 
